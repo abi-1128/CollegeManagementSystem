@@ -4,7 +4,7 @@ A complete College Management System built using Django, supporting student & te
 
 This project provides a simple but functional foundation for managing academic operations digitally.
 
-Student Management
+1. Student Management
 
 Add, view, and manage student profiles
 
@@ -14,7 +14,7 @@ Automatic Roll No. generation (via utils.py)
 
 Student authentication + password update
 
-Teacher Management
+2. Teacher Management
 
 Add & manage teacher accounts
 
@@ -22,7 +22,7 @@ Department-wise categorization
 
 Login + password change system
 
-Notifications :
+3. Notifications :
 
 Public Notifications (for all students)
 
@@ -30,7 +30,7 @@ Private Notifications (student-specific)
 
 Admin create/delete notifications
 
-Fee Management :
+4. Fee Management :
 
 Add student fee details
 
@@ -40,7 +40,7 @@ Update status (paid/unpaid)
 
 View all fee payment records
 
- Feedback System :
+5. Feedback System :
 
 Students submit feedback for teachers
 
@@ -48,7 +48,7 @@ Rating system included (1–5)
 
 Admin view all feedback
 
-Attendance Management :
+6. Attendance Management :
 
 Mark attendance for students
 
@@ -56,7 +56,7 @@ View attendance history
 
 Date-wise records
 
-Authentication & OTP :
+7. Authentication & OTP :
 
 Forgot password with OTP
 
